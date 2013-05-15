@@ -1,0 +1,12 @@
+Parent=Notifications
+
+Name="Events feed"
+Name-logical-id=qtn_home_events_settings_title
+
+Icon=
+
+Aliases=
+Translation-catalogs=home
+
+Order=10
+

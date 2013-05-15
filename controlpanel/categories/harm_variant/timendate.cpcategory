@@ -1,0 +1,13 @@
+Parent=MainPage
+
+Name="Time & Language"
+Name-logical-id=qtn_sett_main_timelanguage
+
+# TODO we need an icon id
+Icon=icon-m-applet-settings
+
+Aliases="qtn_sett_main_timedate,Time & Date"
+Translation-catalogs=
+
+Order=50
+

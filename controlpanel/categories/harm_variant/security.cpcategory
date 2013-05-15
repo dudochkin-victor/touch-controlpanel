@@ -1,0 +1,12 @@
+Parent=MainPage
+
+Name=Security
+Name-logical-id=qtn_sett_main_security
+
+Icon=icon-m-common-passcode
+
+Aliases=
+Translation-catalogs=
+
+Order=70
+

@@ -1,0 +1,15 @@
+Parent=MainPage
+
+Name=Bluetooth
+Name-logical-id=qtn_sett_main_bluetooth
+
+# TODO we need an icon id
+Icon=icon-m-applet-settings
+
+Aliases=
+Translation-catalogs=
+
+AutoStartApplet=1
+
+Order=20
+
